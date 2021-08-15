@@ -1,1 +1,0 @@
-[[nodiscard]] constexpr reference front() noexcept requires N != 0;

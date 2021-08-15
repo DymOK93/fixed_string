@@ -1,1 +1,0 @@
-[[nodiscard]] constexpr const_reverse_iterator rend() const noexcept;

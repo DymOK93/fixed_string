@@ -1,1 +1,0 @@
-[[nodiscard]] constexpr size_type max_size() const noexcept;
